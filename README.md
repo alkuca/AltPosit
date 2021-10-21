@@ -1,7 +1,6 @@
 
 <br />
 <p align="center">
-   <img src="https://github.com/alkuca/iznajmitelj/blob/main/client/src/images/LogoF.svg?raw=true" alt="Logo" width="80" height="80">
   <h3 align="center">Altposit</h3>
   <p align="center">
     Personal cryptocurrency portfolio
