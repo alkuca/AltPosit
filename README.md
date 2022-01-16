@@ -6,7 +6,7 @@
     Personal cryptocurrency portfolio
     <br />
     <br />
-    <a href="www.altposit.com">Live App</a>
+    <a href="https://guarded-tor-95654.herokuapp.com/">Live App</a>
   </p>
 </p>
 <br />
